@@ -12,9 +12,6 @@
 - 💬 Ask me about **flask,java**
 
 - 📫 How to reach me **mervinjoseph2002@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1flJ6N1f1g26Ulopoiv5UFf8ZaRzsR4sn/view?usp=sharing](https://drive.google.com/file/d/1flJ6N1f1g26Ulopoiv5UFf8ZaRzsR4sn/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/mervinjoseph2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mervinjoseph2002" height="30" width="40" /></a>
