@@ -68,12 +68,7 @@ A web app to collect and manage student records and organize data in a neat file
 #### 🔹 Valeria – AI-Driven Automation
 - 🛠️ Stack: AWS, Flask, Python, RAG, Agentic workflows  
 - ⚡ Integrated **multithreading + embedding-based forms**  
-- 🔗 Role: **ML Engineer & Full Stack Developer**  
-
-#### 🔹 Household Service App
-- 🛠️ Stack: FastAPI, Flask, Redis, Celery, Vue.js  
-- 📲 Built scalable **microservices** for booking services  
-- 🔗 Role: **Full Stack Developer**  
+- 🔗 Role: **ML Engineer & Full Stack Developer**   
 
 </details>
 
