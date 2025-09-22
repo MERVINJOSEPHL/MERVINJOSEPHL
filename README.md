@@ -44,6 +44,17 @@
 <details>
 <summary>📌 Click to Expand</summary>
 
+
+#### 🔹 [synthetic-contract-generator](https://github.com/MERVINJOSEPHL/synthetic-contract-generator)
+Python-based system that generates synthetic "Scope of Work" clauses for construction contracts (privacy-preserving, realistic contract text). (repo updated Jun 28, 2025). :contentReference[oaicite:1]{index=1}
+
+#### 🔹 [HouseHoldService](https://github.com/MERVINJOSEPHL/HouseHoldService)
+Multi-user home-services platform (admin, service professionals, customers). Built as a full-stack booking/management app. (repo updated Mar 8, 2025). :contentReference[oaicite:2]{index=2}
+
+#### 🔹 [Student-Management-Application](https://github.com/MERVINJOSEPHL/Student-Management-Application)
+A web app to collect and manage student records and organize data in a neat file-based manner. (repo updated Nov 20, 2023). :contentReference[oaicite:3]{index=3}
+
+
 #### 🔹 [Asami – Intelligent Process Optimization](#)
 - 🛠️ Stack: Python, React, FastAPI, Flask, PostgreSQL, LangChain  
 - ⚡ Optimized query logic → reduced latency from 10 min → **10 sec**  
