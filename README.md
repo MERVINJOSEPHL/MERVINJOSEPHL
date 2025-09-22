@@ -1,37 +1,77 @@
-<h1 align="center">Hi 👋, I'm Mervin Joseph L</h1>
-<h3 align="center">Software Engineer | Generative AI & Full Stack Developer</h3>
+<h1 align="center">Hey 👋, I'm Mervin Joseph L</h1>
+<h3 align="center">🚀 Software Engineer | Generative AI & Full Stack Developer | Cloud Enthusiast</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mervinjosephl&label=Profile%20views&color=0e75b6&style=flat" alt="mervinjosephl" /> 
-</p>
-
-- 💻 I’m a **Software Engineer** with **1.8 years of experience** building AI-powered applications and full-stack solutions.  
-- 🔭 Currently working as a **Senior Software Engineer at NeuranX.AI**, focusing on **NLP, RAG pipelines, and contract intelligence**.  
-- 🚀 Skilled in **Python, Flask, FastAPI, React, Vue.js, PostgreSQL, Docker, AWS, Azure**.  
-- 🤖 Passionate about **Generative AI, Knowledge Graphs, RAG, RAPTOR, NLP, and full-stack development**.  
-- 📫 Reach me at **mervinjoseph2002@gmail.com**  
-- 🌐 Portfolio: [My Projects](https://mervinjosephl.github.io/my-data/)  
-- 💡 Always learning and excited about solving **complex problems with AI + scalable software design**.  
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mervin-joseph10/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40"/>
-</a>
-<a href="https://www.leetcode.com/mervinjoseph2002" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40"/>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mervinjosephl&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/AI-Generative-blue?logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Python%20%7C%20FastAPI%20%7C%20Flask-yellow?logo=python&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 👨‍💻 About Me
+- 💼 **Senior Software Engineer at NeuranX.AI** (working on **ContractX, Advinci, NLP & RAG pipelines**).  
+- 🌱 Experienced in **Generative AI, RAPTOR, Knowledge Graphs, LLMs, HuggingFace, LangChain**.  
+- 🔭 Previously worked at **Avasoft**, building scalable **microservices & AI products**.  
+- 🎓 **B.Tech IT** (St. Joseph's College of Engineering, 9.1 CGPA).  
+- 📜 **Diploma in Programming – IIT Madras**.  
+- 🏆 Known for **rapid learning, cross-functional collaboration, and agile leadership**.  
+
+---
+
+### 🎓 Education & Certifications
+- 🎓 **Bachelor of Technology (IT)** – St. Joseph’s College of Engineering, 2020–2024 (CGPA 9.1)  
+- 🎓 **Diploma in Programming** – IIT Madras  
+- 🏅 Certifications:  
+  - AWS Certified Cloud Practitioner ☁️  
+  - Microsoft Azure Fundamentals 💠  
+  - Generative AI with LLMs (Coursera/DeepLearning.AI) 🤖  
+  - Data Structures & Algorithms in Python 🐍  
+  - SQL & Database Management (MySQL/Postgres) 🗄️  
+
+---
+
+### 🏆 Achievements
+- 🚀 Reduced **backend processing time** from 10 minutes → **10 seconds** in project **Asami**.  
+- 📈 Designed **multi-layered RAG pipeline** that boosted response accuracy by **85%** in **ContractX**.  
+- 🤝 Led a **team of developers** delivering **client-facing AI solutions** at NeuranX.AI.  
+- 💡 Built **ChatGPT/Claude-like product** using Azure & AWS models during internship.  
+
+---
+
+### 🔥 Featured Projects
+<details>
+<summary>📌 Click to Expand</summary>
+
+#### 🔹 [Asami – Intelligent Process Optimization](#)
+- 🛠️ Stack: Python, React, FastAPI, Flask, PostgreSQL, LangChain  
+- ⚡ Optimized query logic → reduced latency from 10 min → **10 sec**  
+- 🔗 Role: **Full Stack Developer**  
+
+#### 🔹 [ContractX – AI Document Processing](#)
+- 🛠️ Stack: AWS, Azure, FastAPI, NLP, OCR, RAPTOR  
+- 📊 Built **Knowledge Graph visualization** with Streamlit  
+- 🔗 Role: **Backend Developer**  
+
+#### 🔹 [Valeria – AI-Driven Automation](#)
+- 🛠️ Stack: AWS, Flask, Python, RAG, Agentic workflows  
+- ⚡ Integrated **multithreading + embedding-based forms**  
+- 🔗 Role: **ML Engineer & Full Stack Developer**  
+
+#### 🔹 [Household Service App](#)
+- 🛠️ Stack: FastAPI, Flask, Redis, Celery, Vue.js  
+- 📲 Built scalable **microservices** for booking services  
+- 🔗 Role: **Full Stack Developer**  
+
+</details>
+
+---
+
+### 🛠️ Languages and Tools
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -44,7 +84,23 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mervinjosephl&show_icons=true&theme=radical&locale=en" alt="mervinjosephl" />
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mervinjosephl&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mervinjosephl&theme=radical" alt="streak" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/mervin-joseph10/" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/>
+  </a>
+  <a href="mailto:mervinjoseph2002@gmail.com" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail"/>
+  </a>
+  <a href="https://leetcode.com/mervinjoseph2002/" target="blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="leetcode"/>
+  </a>
 </p>
